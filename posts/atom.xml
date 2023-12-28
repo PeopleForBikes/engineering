@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>BNA Mechanics Blog - Posts</title>
+    <link rel="self" type="application/atom+xml" href="https://peopleforbikes.github.io/engineering/posts/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://peopleforbikes.github.io/engineering/posts/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-12-28T00:00:00+00:00</updated>
+    <id>https://peopleforbikes.github.io/engineering/posts/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Beyond Bikes: BNA Mechanics Tech Blog Launches! 🚀</title>
+        <published>2023-12-28T00:00:00+00:00</published>
+        <updated>2023-12-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              BNA Mechanics Team
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://peopleforbikes.github.io/engineering/posts/announcement/"/>
+        <id>https://peopleforbikes.github.io/engineering/posts/announcement/</id>
+        
+        <content type="html" xml:base="https://peopleforbikes.github.io/engineering/posts/announcement/">&lt;p&gt;Guess what? The BNA Mechanics team just cranked things up a notch, and we&#x27;re
+stoked to share the excitement with you! 🎉 Drumroll, please… introducing the
+BNA Mechanics Engineering Blog – where all the gearhead goodness and automation
+awesomeness happen!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;What&#x27;s Under the Tech Hood?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cloud Chronicles:&lt;&#x2F;strong&gt; Buckle up as we explore the skies – the computer cloud skies,
+that is! Dive into the world of cloud technology, discover how it powers our
+advocacy innovations, and ride the waves of scalability like never before.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Rust Rides Shotgun:&lt;&#x2F;strong&gt; Rust is not just for old bolts; it&#x27;s the backbone of
+our tech stack. Discover why we&#x27;re crushing on Rust, unravel its magic, and
+see how it&#x27;s steering our projects to new heights.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python Pit Stops:&lt;&#x2F;strong&gt; Python, our trusty companion on this coding journey.
+Join us as we navigate Python&#x27;s terrain, sharing the tips and tricks that
+keep our pedals humming and our projects on the fast track.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;NextJS Joyrides:&lt;&#x2F;strong&gt; Curious about the frontend magic behind our sites?
+NextJS is our secret sauce! Hop on for joyrides through the world of React,
+SSR, and everything NextJS. Spoiler: It&#x27;s where performance meets perfection.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automation Alley:&lt;&#x2F;strong&gt; Get ready for a wild ride through the world of
+automation! From streamlining processes to optimizing workflows, we&#x27;ll share
+how automation fuels our tech innovations and keeps the gears turning
+smoothly.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Code Buffet:&lt;&#x2F;strong&gt; We&#x27;re not just talking tech; we&#x27;re serving it up! From
+in-depth tutorials to snippets that&#x27;ll make your coding fingers itch, get
+ready to feast at our Code Buffet.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;And More:&lt;&#x2F;strong&gt; The surprises don&#x27;t end there! Stay tuned for more tech treats,
+behind-the-scenes stories, and unexpected detours on our coding escapade.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;It&#x27;s not just about bikes; it&#x27;s about the tech that fuels the ride. So, gear up,
+grab your keyboards, and join us on this tech-infused and automated journey. The
+road ahead is paved with code, clouds, automation, and the pure joy of pushing
+tech boundaries!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
