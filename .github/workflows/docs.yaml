@@ -1,0 +1,14 @@
+name: docs
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+  push:
+    branches:
+      - main
+
+jobs:
+  ci-rust:
+    uses: PeopleForBikes/.github/.github/workflows/docs-zola.yml@main
