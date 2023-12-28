@@ -1,0 +1,48 @@
+author = "BNA Mechanics Team"
+title = "BNA Mechanics Blog"
+base_url = "https://peopleforbikes.github.io/engineering"
+compile_sass = true
+build_search_index = true
+generate_feed = true
+minify_html = true
+theme = "papermod"
+taxonomies = [{ name = "tags", feed = true }]
+
+[markdown]
+highlight_code = true
+
+[extra]
+
+[extra.papermod]
+title = "BNA Mechanics Blog"
+default_theme = "auto"
+theme = "dark"
+language_direction = "auto"
+keywords = ["automation", "cloud", "rust", "python", "nextjs"]
+show_theme_toggle = true
+show_scroll_to_top = true
+show_code_copy_buttons = true
+show_reading_time = true
+show_word_count = false
+show_post_nav_links = true
+show_post_meta = true
+default_toc_open = false
+show_post_edit_button = false
+#copyright = ""
+date_format = "%Y-%m-%d"
+navigation = [
+  #   { url = "$BASE_URL/archive", title = "Archive" },
+  { url = "$BASE_URL/tags", title = "Tags" },
+  #   { url = "https://getzola.com/", title = "Zola", is_external = true },
+]
+
+home_title = "Welcome!"
+home_content = "Embark on a tech-fueled journey with the BNA Mechanics Tech Blog—where we explore the fusion of code, cloud technology, and automation. Join us for a thrilling ride through the dynamic intersection of cycling, advocacy and cutting-edge technology! 🚀💻"
+social_icons = [
+  { url = "https://github.com/PeopleForBikes", title = "PeopleForBikes", icon = "github" },
+  { url = "https://www.linkedin.com/company/peopleforbikes/", title = "LinkedIn", icon = "linkedin" },
+  { url = "https://twitter.com/peopleforbikes", title = "Twitter", icon = "twitter" },
+  { url = "https://www.instagram.com/peopleforbikes/", title = "Instagram", icon = "instagram" },
+  { url = "https://www.facebook.com/PeopleForBikes/", title = "Facebook", icon = "facebook" },
+  { url = "https://www.youtube.com/@peopleforbikes", title = "YouTube", icon = "youtube" },
+]
